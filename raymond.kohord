@@ -1,0 +1,25 @@
+# My personal kohord configuration file
+
+# escape
+j k
+esc
+
+# curly braces / map
+c comma
+f13
+
+# parentheses / form
+f j
+f14
+
+# vector / list
+r u
+f15
+
+# double quotes
+q p
+f16
+
+# newline
+v m
+enter
